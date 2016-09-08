@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 branch
 8
+=======
+master
+7
+>>>>>>> refs/remotes/origin/master
